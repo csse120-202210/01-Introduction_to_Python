@@ -173,7 +173,7 @@ natasha.go_to(rg.Point(-100, 200))
 #  _
 #   Then add more code that:
 #     -- Constructs a  Pen  object,
-#     -- Assigns your SimpleTurtle's  pen  to the constructed Pen object, and
+#     -- Assigns your constructed Pen object to the SimpleTurtle's pen , and
 #     -- Makes your SimpleTurtle move around a bit.
 #  _
 #      ** Nothing fancy is required. **
